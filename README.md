@@ -1,16 +1,24 @@
-### Hi there 👋
+# iOS Developer
 
-<!--
-**Kota1021/Kota1021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kota1021&show_icons=true&theme=vue-dark)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kota1021&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kota1021&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
+# Contact
+
+<p align="left">
+<a href="https://twitter.com/Kota1021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kota1021" height="30" width="40" /></a>
+</p>
+
+# My Skills
+
+<img src="https://skillicons.dev/icons?i=swift,html,javascript,git,github" /> <br /><br />
+
+  ※Another skill and tools
+  Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
+  
+# NOW TRAINING
+
+<img src="https://skillicons.dev/icons?i=swift,html,javascript,git,github" /> <br /><br />
